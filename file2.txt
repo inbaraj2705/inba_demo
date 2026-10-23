@@ -1,0 +1,9 @@
+gi
+git add .
+git commit
+git status
+git log
+git config --global --list
+git config --global user.name "user name"
+git config --global user.email "user email"
+git switch -c main
